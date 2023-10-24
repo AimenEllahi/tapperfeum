@@ -6,7 +6,8 @@ import { useControls } from "leva";
 import { Cloud, Environment } from "@react-three/drei";
 // import { LayerMaterial, Color, Depth } from 'lamina'
 import * as THREE from "three";
-// import { Model } from "./TP_World";
+// import { Model } from "./threejs/TP_WORLD_CONCEPT";
+// import { Model } from "./threejs/TP_World";
 import { gsap } from "gsap";
 import Buttons from "./buttons";
 import ScrollAnimation from "./ScrollAnimation";
